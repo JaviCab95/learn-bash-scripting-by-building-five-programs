@@ -202,3 +202,4 @@ I=0
 echo $NUMBER
 echo $1
 echo $I
+(( I++ ))
