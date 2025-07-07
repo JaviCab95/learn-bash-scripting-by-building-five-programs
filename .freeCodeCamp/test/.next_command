@@ -141,3 +141,4 @@ help if
 ./countdown.sh arg1
 ./countdown.sh juice
 ./countdown.sh juice
+./countdown.sh 4
