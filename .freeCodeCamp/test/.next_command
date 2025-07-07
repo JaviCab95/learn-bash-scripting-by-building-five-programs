@@ -130,3 +130,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./questionnaire.sh
 ./questionnaire.sh
 touch countdown.sh
+chmod +x
+chmod +x countdown.sh
