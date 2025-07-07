@@ -286,3 +286,4 @@ chmod +x five.sh
 ./questionnare.sh
 ./questionnaire.sh
 ./five.sh
+clear
