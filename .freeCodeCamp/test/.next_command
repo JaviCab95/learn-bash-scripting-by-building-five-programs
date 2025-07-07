@@ -243,3 +243,8 @@ chmod +x fortune.sh
 ./fortune.sh
 ARR=("a" "b" "c")
 echo ${ARR[1]}
+echo $*
+echo bingo.sh countdown.sh fortune.sh questionnaire.sh
+echo $@
+echo {AAR[@]}
+echo ${ARR[@]}
