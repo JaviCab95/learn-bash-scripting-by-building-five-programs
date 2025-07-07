@@ -190,3 +190,4 @@ echo LANG
 echo $NUMBER
 echo $LANG
 declare -p
+echo $RANDOM
