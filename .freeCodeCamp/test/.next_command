@@ -293,3 +293,4 @@ hekp
 help
 help type
 type echo
+type read
