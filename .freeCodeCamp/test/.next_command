@@ -189,3 +189,4 @@ printenv
 echo LANG
 echo $NUMBER
 echo $LANG
+declare -p
