@@ -86,3 +86,4 @@ echo Hello $NAME
 echo Hello $NAME
 ./questionnaire.sh
 echo Hello $NAME from $LOCATION.
+./questionnaire.sh
