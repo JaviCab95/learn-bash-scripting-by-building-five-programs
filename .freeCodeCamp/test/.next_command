@@ -296,3 +296,4 @@ type echo
 type read
 type if
 __vsc_prompt_cmd_original
+type then
