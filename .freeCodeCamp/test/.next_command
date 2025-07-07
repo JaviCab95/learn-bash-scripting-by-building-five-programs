@@ -156,3 +156,5 @@ echo $?
 [[ 10 != 5 ]]
 [ 10 != 5 ]]
 [[ 10 -ne 5 ]]
+[[ -n bad_command ]]
+bad_command
