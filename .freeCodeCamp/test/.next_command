@@ -301,3 +301,6 @@ type bash
 type psql
 type ./five.sh
 exit
+git init
+git commit -m "Five Countdown, questionnaire, bingo, fortune"
+git add .
