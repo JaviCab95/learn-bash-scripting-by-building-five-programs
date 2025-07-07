@@ -211,3 +211,6 @@ echo $I
 $(( I + 4 ))
 echo $(( I + 4 ))
 echo $I
+echo $J
+$(( I - 6 ))
+J=$(( I - 6 ))
