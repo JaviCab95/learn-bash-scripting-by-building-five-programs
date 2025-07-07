@@ -248,3 +248,6 @@ echo bingo.sh countdown.sh fortune.sh questionnaire.sh
 echo $@
 echo {AAR[@]}
 echo ${ARR[@]}
+declare -p
+declare -p ${ARR[@]}
+declare -p ARR
