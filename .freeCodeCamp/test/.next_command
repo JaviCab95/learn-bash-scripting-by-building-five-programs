@@ -230,3 +230,10 @@ echo $(( RANDOM % 75 + 1 ))
 __vsc_prompt_cmd_original
 ./bingo.sh $NUMBER
 help let
+./countdown sh
+./countdown.sh
+2
+./bingo.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+./bingo.sh
