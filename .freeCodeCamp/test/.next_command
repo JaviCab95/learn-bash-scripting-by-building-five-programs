@@ -88,3 +88,4 @@ echo Hello $NAME
 echo Hello $NAME from $LOCATION.
 ./questionnaire.sh
 ./questionnaire.sh
+echo --help
