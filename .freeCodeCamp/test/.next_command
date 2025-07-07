@@ -199,3 +199,6 @@ __vsc_prompt_cmd_original
 $I = 0
 $I=0
 I=0
+echo $NUMBER
+echo $1
+echo $I
