@@ -143,3 +143,4 @@ help if
 ./countdown.sh juice
 ./countdown.sh 4
 ./countdown.sh 5
+help
