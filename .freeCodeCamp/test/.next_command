@@ -294,3 +294,5 @@ help
 help type
 type echo
 type read
+type if
+__vsc_prompt_cmd_original
