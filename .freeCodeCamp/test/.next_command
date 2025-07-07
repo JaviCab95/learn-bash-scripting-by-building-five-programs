@@ -139,3 +139,4 @@ help
 man if
 help if
 ./countdown.sh arg1
+./countdown.sh juice
